@@ -32,7 +32,7 @@ Urban data science is an emergent practice in geography and urban planning that 
 
 These approaches enable more spatiotemporally dynamic and granular analyses of cities and allow researchers new insight into urban dynamics.  
 
-This course will provide a toolkit to speak through data, code, statistics, and visualization. Using open-source data and computational tools in Python and the Jupyter Notebook environment, we will learn how to:
+This course will provide a toolkit to speak through data, code, statistics, and visualization. Using open-source data and computational tools in Python and the Jupyter Notebook environment, we will learn how to:  
 - Design testable research questions  
 - Collect and prepare data  
 - Apply relevant analytical techniques  
@@ -112,50 +112,3 @@ A personal laptop with permissions to install software is required.
 Lab sessions provide additional time to practice, review concepts, and discuss in-class exercises and homework assignments. **Attendance is required.**  
 
 ---
-
-## **Use of Generative AI**  
-
-**ChatGPT and AI tools are permitted** for coding with proper attribution. However, **be prepared to verbally explain your code.** Some fundamental concepts in Python, machine learning, and regression must be learned manually.  
-
----
-
-## **Academic Integrity**  
-
-By its nature, coding involves sharing and replication, especially given the availability of online resources. However:  
-- **Indicate the source** in a comment when using repurposed code.  
-- **Tailor** the code for your specific needs.  
-- **Be prepared to explain** the code in class.  
-
-Violations of Cornell University’s **Code of Academic Integrity** may result in failure or expulsion.  
-
-📖 **More info:** [Cornell Academic Integrity Policy](https://theuniversityfaculty.cornell.edu/dean/academic-integrity/code-of-academic-integrity/)  
-
----
-
-## **Inclusivity and Accessibility**  
-
-This course is committed to fostering an inclusive learning environment.  
-- If you need **disability-related adjustments**, please contact **Student Disability Services (SDS)**.  
-- Cornell has resources for **mental health support**.  
-
-🌍 **Bias Reporting:** If you witness or experience bias, report it anonymously via [Cornell Bias Reporting Portal](https://diversity.cornell.edu/our-commitments/bias-reporting-cornell).  
-
-📖 **Title IX:** Students who experience discrimination, harassment, or sexual violence are encouraged to contact **Cornell’s Office of Institutional Equity & Title IX** at [titleix@cornell.edu](mailto:titleix@cornell.edu).  
-
----
-
-## **Religious Observances**  
-
-Cornell University accommodates religious observances. Please inform the instructor **well in advance** to arrange make-up work.  
-
-📖 **More info:** [Cornell Religious Accommodation Policy](https://titleix.cornell.edu/)  
-
----
-
-## **Syllabus Change Policy**  
-
-The syllabus may be subject to updates during the semester to best serve student learning needs.  
-
----
-
-This markdown file **strictly follows** the original syllabus format while maintaining readability for GitHub. Let me know if you need any refinements! 🚀
