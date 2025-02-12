@@ -88,27 +88,12 @@ A personal laptop with permissions to install software is required.
 
 ---
 
-## **Assignments and Grading**  
-
-| Component                      | Percentage  |
-|--------------------------------|------------|
-| In-class exercises             | **15%**    |
-| Homework assignments           | **35%**    |
-| Final Project Proposal         | **5%**     |
-| Final Project (Paper + Presentation) | **35%** |
-| Class Attendance & Participation | **10%** |
-
-🔔 **Late Submission Policy:**  
-- **-2%** if turned in the following day  
-- **-8%** if turned in within 1 week  
-- **-20%** after 1 week  
-
-🚫 **Final projects must be submitted on time. Late submissions will not be accepted.**  
-
----
-
 ## **Lab Sessions**  
 
 Lab sessions provide additional time to practice, review concepts, and discuss in-class exercises and homework assignments. **Attendance is required.**  
 
+---
+
+## 📂 Course Resources  
+📖 **Syllabus**: [Download PDF](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680/raw/main/Syllabus/intro_urban_data_science_syllabus_spr2025_final.pdf)  
 ---
